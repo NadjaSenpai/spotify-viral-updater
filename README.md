@@ -12,7 +12,7 @@ Apple Music などでも聴きたい！と思ったんですが、
 なので変換してプレイリストにしてしまおう！という目論見で作りました。  
 GitHub Actions で毎日更新できるようにしています。
 
-ChatGPT といっしょに作りました。というか9割作ってもらった。
+ChatGPT といっしょに作りました。
 
 `https://charts.spotify.com/charts/view/viral-jp-daily/latest` を別のチャートにしても動くと思います。
 
